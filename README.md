@@ -4,7 +4,7 @@
 ## Description
 About 750 speakers participated in the recording, and conducted face-to-face communication in a natural way. They had free discussion on a number of given topics, with a wide range of fields; the voice was natural and fluent, in line with the actual dialogue scene. Text is transferred manually, with high accuracy.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1122?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1122?source=Github
 
 
 ## Format
